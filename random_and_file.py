@@ -87,7 +87,7 @@ logo = ("""
  ┃ [✓] STATUS    \033[1;91m: \033[1;92mFREE                       ┃
  ┃ [✓] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI                ┃
  ┃ [✓] GITHUB    \033[1;91m: \033[1;92mTECH WITH APURBO           ┃
- ┃ [✓] FACEBOOK  \033[1;91m: \033[1;92mTECH WITH APURBO          ┃
+ ┃ [✓] FACEBOOK  \033[1;91m: \033[1;92mTECH WITH APURBO           ┃
  ┃ [✓] WHATSAPP  \033[1;91m: \033[1;92m+8801706357376             ┃
  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
 
